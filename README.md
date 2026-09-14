@@ -1,6 +1,6 @@
 # YOLO11s Sim-to-Real Training Pipeline
 
-this README is mostle abot what is in /train_space.
+this README is mostly abot what is in /train_space.
 
 This repository contains an automated, two-stage training script (`train_pipeline.py`) designed to bridge the domain gap between highly-controlled synthetic data and noisy, real-world camera sensor data using YOLO11s.
 
