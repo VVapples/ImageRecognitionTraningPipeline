@@ -1,0 +1,6 @@
+path: imageset/step2
+train: images/train
+val: images/val
+
+nc: 1  # Replace with your number of classes
+names: ['orange_hammer']
